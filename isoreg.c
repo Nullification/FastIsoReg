@@ -233,7 +233,7 @@ double *PAV(double *x, int n, double *y)
             continue;
         }
         
-        //After updating backward, a violation appeared in the end of the block
+        //After updating backward, a violation appeared at the end of the block
         //Go there and fix it
         k=blocks->blockStartIndex-1; //This will hold the first index to look at after finishing the forward update
         i=(++blockStartIndex); // First element after the block range
