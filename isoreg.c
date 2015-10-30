@@ -1,5 +1,5 @@
-/* --- Fast Isotonic regression ---
- *  FastIsoReg
+/* --- BiPAVA ---
+ *  Bidirectional Implementation of Pool Adjacent Violators Algorithm
  *  By Wail Alkowaileet
  *  Center for Complex Engineering Systems at KACST and MIT
  *  w.alkowaileet(at)cces-kacst-mit.org
