@@ -1,6 +1,8 @@
 /* --- Fast Isotonic regression ---
  *  FastIsoReg
  *  By Wail Alkowaileet
+ *  Center for Complex Engineering Systems at KACST and MIT
+ *  w.alkowaileet(at)cces-kacst-mit.org
  *  FastIsoReg is a modification to the previous implentation to accelorate the process
  *  of the Isotonic Regression.
  *  Copyright (C) 2015  Wail Alkowaileet
